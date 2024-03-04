@@ -1,0 +1,42 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #b4d4ff;
+  color: #176b87;
+}
+
+h1.title {
+  padding-top: 50px;
+  text-align: center;
+}
+
+h2.description {
+  padding-top: 10px;
+  text-align: center;
+}
+
+div.img {
+  padding-top: 25px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h3.warning {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.button {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button {
+  font-family: "Raleway", sans-serif;
+  margin: 10px;
+  width: 200px;
+  height: 30px;
+}

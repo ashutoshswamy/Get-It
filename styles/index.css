@@ -1,0 +1,32 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #b4d4ff;
+  color: #176b87;
+}
+
+h1.title {
+  padding-top: 50px;
+  text-align: center;
+}
+
+h2.description {
+  padding-top: 10px;
+  text-align: center;
+}
+
+div.buttons {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button {
+  font-family: "Raleway", sans-serif;
+  margin: 10px;
+  width: 200px;
+  height: 30px;
+}
+
+h3.devinfo {
+  padding-top: 25px;
+  text-align: center;
+}
